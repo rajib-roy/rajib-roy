@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajib Roy
 
-<!--
-**rajib-roy/rajib-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a WordPress and WooCommerce developer with 7+ years of experience building custom websites, eCommerce solutions, and membership platforms. I specialize in:
 
-Here are some ideas to get you started:
+- 🔧 Custom WordPress Theme & Plugin Development  
+- 🛒 WooCommerce Store Setup & Optimization  
+- 🧩 Page Builders: Elementor, WPBakery  
+- 💻 Frontend: HTML, CSS, JavaScript, PHP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🎸 [Nightingale Guitars](https://www.nightingaleguitars.com.au/)  
+A custom WooCommerce store for an Australian guitar brand. Includes responsive design, custom PHP functions, and fast checkout flow.
+
+### 🍽 [Foodcore Nutrition Membership Site](https://www.foodcore.org.au/)  
+Built a recipe-based membership site with custom user login, subscription, and content restriction features.
+
+### ⚖️ [Fourth Floor Chambers](https://www.fourthfloor.com.au/)  
+Portfolio site for a law firm, built using custom PHP, fully responsive, and designed for clear content structure.
+
+---
+
+## 📁 View Full Portfolio
+
+👉 [https://rajib-roy.github.io/portfolio](https://rajib-roy.github.io/portfolio)
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [imrajib17@gmail.com](mailto:imrajib17@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rajib-roy-10a6a7134](https://www.linkedin.com/in/rajib-roy-10a6a7134/)  
+
+Thanks for visiting!
