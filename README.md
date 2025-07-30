@@ -9,7 +9,7 @@ I’m a WordPress and WooCommerce developer with 7+ years of experience building
 
 ---
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldwincoder.com%2Fwordpress%2Fwordpress-developer-expert-solutions%2F&psig=AOvVaw3SfIt-g5CzvJAnkJ-eM9VO&ust=1753987519316000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjzpvKe5Y4DFQAAAAAdAAAAABAV" alt="coding">
+<img width="700" height="457" alt="image" src="https://github.com/user-attachments/assets/85750886-9f1d-4292-beb6-fee1c66dc73b" />
 
 ## 🚀 Featured Projects
 
