@@ -9,7 +9,7 @@ I’m a WordPress and WooCommerce developer with 7+ years of experience building
 
 ---
 
-<img width="700" height="457" alt="image" src="https://github.com/user-attachments/assets/85750886-9f1d-4292-beb6-fee1c66dc73b" />
+<img width="700" height="457" alt="image" src="https://worldwincoder.com/wp-content/uploads/2018/08/wordpress-jobs-02.gif" />
 
 ## 🚀 Featured Projects
 
